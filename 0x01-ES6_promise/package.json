@@ -1,0 +1,19 @@
+{
+  "name": "alx",
+  "version": "1.0.0",
+  "description": "## Requirements",
+  "main": "0-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhabwe254/alx-backend-javascript.git"
+  },
+  "author": "Gideon Habwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhabwe254/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/zhabwe254/alx-backend-javascript#readme"
+}
