@@ -1,0 +1,12 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "What ES6 is ES6 (ECMAScript 2015): ES6, also known as ECMAScript 2015, is the sixth edition of the ECMAScript language specification standard. It is a significant update to the language and introduces several new features and syntax improvements to make JavaScript more powerful and expressive.",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
