@@ -89,3 +89,15 @@ console.log(myWeakMap.get(obj1)); // 'value1'
 obj1 = null;
 // obj1 is now eligible for garbage collection
 These ES6 features enhance the ability to manipulate and handle data efficiently in JavaScript.
+
+Explanation:
+WeakMap Initialization:
+
+weakMap is initialized as a WeakMap instance and exported.
+Function Implementation:
+
+queryAPI function accepts an endpoint object.
+It checks if the endpoint is already in the WeakMap and gets the current count of calls. If it's not present, it initializes the count to 0.
+The count is incremented by 1.
+The updated count is set back in the WeakMap.
+If the count reaches 5 or more, an error is thrown with the message "Endpoint load is high".
